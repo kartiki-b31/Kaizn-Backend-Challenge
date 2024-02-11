@@ -4,6 +4,13 @@
 <b> Name: </b> Kartiki Bhandakkar <br>
 <b> Email: </b> kbhanda3@ncsu.edu
 
+## Deployed Application URL
+
+### Admin: http://152.7.177.236:8000/admin
+#### Username: root
+#### Password: root
+### Fetch Items with user token URL: http://152.7.177.236:8000/items
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
